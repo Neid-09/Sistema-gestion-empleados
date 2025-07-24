@@ -277,7 +277,8 @@ CREATE TABLE empleado (
 - **JPA/Hibernate**: ORM para manejo de base de datos
 - **Lombok**: Reducción de código boilerplate
 
-### Frontend (React)
+### Frontend (React) 
+[App](https://github.com/Neid-09/gest-empleados-frontend)
 - **Componentes Funcionales**: Usando React Hooks
 - **Manejo de Estado**: useState y useEffect
 - **Comunicación con API**: Fetch API para peticiones HTTP
